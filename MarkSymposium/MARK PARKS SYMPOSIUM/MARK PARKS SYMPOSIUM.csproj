@@ -294,6 +294,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Space Shooter Template FREE\Prefabs\EnemyWaves\NewBehaviourScript.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\Bonus.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\Boundary.cs" />
     <Compile Include="Assets\Space Shooter Template FREE\Scripts\DirectMoving.cs" />
